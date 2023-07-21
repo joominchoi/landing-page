@@ -6,3 +6,7 @@
 body {
   font-family: roboto-black, monospace;
 }
+
+ul {
+  list-style: none;
+}
