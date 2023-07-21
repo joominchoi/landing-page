@@ -9,13 +9,12 @@ body {
 
 .header {
   display: flex;
-/*  justify-content: space-between;*/
+  justify-content: space-between;
 }
 
-/*.right-links {
+.right-links {
   display: flex;
-  margin-right: 10px;
-}*/
+}
 
 img {
   max-height: 100px;
