@@ -1,6 +1,11 @@
-@font-face{
+@font-face {
   font-family: roboto-black;
   src:url(fonts/Roboto-Black.ttf);
+}
+
+@font-face {
+  font-family: roboto-regular;
+  src:url(fonts/Roboto-Regular.ttf);
 }
 
 body {
@@ -25,6 +30,11 @@ img {
 
 ul {
   list-style: none;
+  font-family: roboto-regular, monospace;
+}
+
+a {
+  text-decoration: none;
 }
 
 .link1, .link2 {
