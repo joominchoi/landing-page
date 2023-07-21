@@ -10,7 +10,8 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-/*  margin: 100px;*/
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .right-links {
