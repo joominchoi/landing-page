@@ -7,6 +7,20 @@ body {
   font-family: roboto-black, monospace;
 }
 
+.header {
+  display: flex;
+/*  justify-content: space-between;*/
+}
+
+/*.right-links {
+  display: flex;
+  margin-right: 10px;
+}*/
+
+img {
+  max-height: 100px;
+  max-width: 100px;
+}
 ul {
   list-style: none;
 }
