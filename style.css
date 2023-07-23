@@ -10,6 +10,8 @@
 
 body {
   font-family: roboto-black, monospace;
+  margin: 0px;
+  padding: 0px;
 }
 
 .header {
@@ -17,7 +19,7 @@ body {
   justify-content: space-between;
   padding-left: 100px;
   padding-right: 100px;
-  background-color: black;
+  background-color: #1F2937;
   color: white;
 }
 
@@ -37,6 +39,11 @@ ul {
 
 a {
   text-decoration: none;
+}
+
+a:visited { 
+ text-decoration: none;
+ color: white;
 }
 
 .link1, .link2 {
