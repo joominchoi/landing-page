@@ -20,11 +20,19 @@ body {
   padding-left: 100px;
   padding-right: 100px;
   background-color: #1F2937;
+}
+
+.header-logo-text {
   color: white;
+  font-size: 24px;
 }
 
 .right-links {
   display: flex;
+  align-content: center;
+  margin-top: auto;
+  margin-bottom: auto; 
+  font-size: 18px;
 }
 
 img {
@@ -43,7 +51,7 @@ a {
 
 a:visited { 
  text-decoration: none;
- color: white;
+ color: #E5E7EB;
 }
 
 .link1, .link2 {
