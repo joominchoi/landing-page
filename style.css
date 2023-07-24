@@ -55,6 +55,14 @@ body {
   font-family: roboto-thin;
 }
 
+button {
+  background-color: #3b82f6;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  padding: 7px 25px;
+}
+
 img {
   max-height: 100px;
   max-width: 100px;
