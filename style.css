@@ -75,6 +75,13 @@ body {
   margin-top: 5px;
 }
 
+.information-header-text {
+  font-size: 36px;
+  color: #1F2937;
+  margin: 0;
+  text-align: center;
+}
+
 button {
   background-color: #3b82f6;
   border: none;
