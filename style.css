@@ -34,6 +34,11 @@ body {
   font-size: 18px;
 }
 
+.section1 {
+  display: flex;
+  background-color: #1F2937;
+}
+
 img {
   max-height: 100px;
   max-width: 100px;
