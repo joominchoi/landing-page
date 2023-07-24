@@ -97,11 +97,11 @@ body {
 .items {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
   padding-top: 50px;
 }
 
 .item1, .item2, .item3, .item4 {
-  display: block;
   align-items: center;
 }
 
