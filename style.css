@@ -13,6 +13,11 @@
   src:url(fonts/Roboto-Thin.ttf);
 }
 
+@font-face {
+  font-family: roboto-thinitalic;
+  src:url(fonts/Roboto-ThinItalic.ttf);
+}
+
 body {
   font-family: roboto-black, monospace;
   margin: 0px;
@@ -109,6 +114,23 @@ body {
   text-align: center;
   width: 200px;
   font-family: roboto-regular;
+}
+
+.section3 {
+  background-color: #E5E7EB;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 100px;
+  padding-bottom: 75px;
+
+}
+
+.quote-text {
+  font-family: roboto-thinitalic;
+}
+
+.author-text {
+  text-align: right;
 }
 
 button {
