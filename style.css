@@ -169,6 +169,17 @@ body {
   border-radius: 5px;
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  font-family: roboto-thin;
+  font-size: 18px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 button {
   background-color: #3b82f6;
   border: none;
