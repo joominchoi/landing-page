@@ -8,6 +8,11 @@
   src:url(fonts/Roboto-Regular.ttf);
 }
 
+@font-face {
+  font-family: roboto-thin;
+  src:url(fonts/Roboto-Thin.ttf);
+}
+
 body {
   font-family: roboto-black, monospace;
   margin: 0px;
@@ -47,6 +52,7 @@ body {
 .hero-secondary-text {
   font-size: 18px;
   color: #E5E7EB;
+  font-family: roboto-thin;
 }
 
 img {
